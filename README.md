@@ -4,7 +4,7 @@
 2. Ser autodidata
 3. Gostar de resolver problemas
 4. Gostar de aprender
-  #**Além disso...**
+  # **Além disso...**
 ***Ter bom nível de concentração***
 ***Ser curioso: “porque isso é assim”, “de onde isso vem” ou “porque isso acontece”. Perguntas devem ser constantes***
 ***Ser disciplinado***
