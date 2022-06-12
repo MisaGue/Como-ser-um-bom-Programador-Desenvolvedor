@@ -7,6 +7,8 @@
 4. Gostar de aprender
 
 
+
+
 **Além disso...**
     
   - Ter bom nível de concentração
@@ -23,11 +25,12 @@
 
   - Saber ouvir os mais espertos e os que sabem menos também, sempre existe algo para se aprender
 
+
+
 **O que faz realmente a diferença?**
 
 - Resolver problemas
 - Um bom programador é um cara que resolve problemas sem ficar dependendo dos outros. 
-- Responsabilidade e ética
-- Programadores costumam ter acesso a um grande volume de informação e conhecimento. Em boa parte das vezes informações sigilosas, portanto é preciso ter a ética como   base para trabalhar nesta área
+- Responsabilidade e ética, programadores costumam ter acesso a um grande volume de informação e conhecimento. Em boa parte das vezes informações sigilosas, portanto é  preciso ter a **ética** como   base para trabalhar nesta área
 - Se atualizar, se atualizar e se atualizar
 - Diferente da maioria das outras profissões, sendo um analista você terá que estudar e aprender sempre.
