@@ -1,9 +1,11 @@
 # Como-ser-um-bom-Programador-Desenvolvedor
 **Descrição para ser um Programador/Desenvolvedor exemplo:** 👨‍🎓 💻
+
 1. Ter bom raciocínio lógico
 2. Ser autodidata
 3. Gostar de resolver problemas
 4. Gostar de aprender
+
 
 **Além disso...**
     
@@ -22,6 +24,7 @@
   - Saber ouvir os mais espertos e os que sabem menos também, sempre existe algo para se aprender
 
 **O que faz realmente a diferença?**
+
 - Resolver problemas
 - Um bom programador é um cara que resolve problemas sem ficar dependendo dos outros. 
 - Responsabilidade e ética
